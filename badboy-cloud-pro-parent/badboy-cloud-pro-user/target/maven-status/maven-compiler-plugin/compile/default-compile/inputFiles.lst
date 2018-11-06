@@ -1,0 +1,14 @@
+D:\work\badboy\badboy-cloud-pro-parent\badboy-cloud-pro-user\src\main\java\com\badboy\cloud\controller\UserController.java
+D:\work\badboy\badboy-cloud-pro-parent\badboy-cloud-pro-user\src\main\java\com\badboy\cloud\mq\rabbitmq\RabbitMQConfig.java
+D:\work\badboy\badboy-cloud-pro-parent\badboy-cloud-pro-user\src\main\java\com\badboy\cloud\mq\rabbitmq\user\Consumer\UserLoginDateConsumer.java
+D:\work\badboy\badboy-cloud-pro-parent\badboy-cloud-pro-user\src\main\java\com\badboy\cloud\feign\shop\ShopFeign.java
+D:\work\badboy\badboy-cloud-pro-parent\badboy-cloud-pro-user\src\main\java\com\badboy\cloud\feign\order\OrderFeignConfig.java
+D:\work\badboy\badboy-cloud-pro-parent\badboy-cloud-pro-user\src\main\java\com\badboy\cloud\BadboyCloudProUserApp.java
+D:\work\badboy\badboy-cloud-pro-parent\badboy-cloud-pro-user\src\main\java\com\badboy\cloud\config\ConfigSetting.java
+D:\work\badboy\badboy-cloud-pro-parent\badboy-cloud-pro-user\src\main\java\com\badboy\cloud\feign\order\OrderFeign.java
+D:\work\badboy\badboy-cloud-pro-parent\badboy-cloud-pro-user\src\main\java\com\badboy\cloud\feign\shop\ShopFeignConfig.java
+D:\work\badboy\badboy-cloud-pro-parent\badboy-cloud-pro-user\src\main\java\com\badboy\cloud\feign\FeignConfig.java
+D:\work\badboy\badboy-cloud-pro-parent\badboy-cloud-pro-user\src\main\java\com\badboy\cloud\dao\UserDao.java
+D:\work\badboy\badboy-cloud-pro-parent\badboy-cloud-pro-user\src\main\java\com\badboy\cloud\mq\rabbitmq\user\producer\UserLoginDateProducer.java
+D:\work\badboy\badboy-cloud-pro-parent\badboy-cloud-pro-user\src\main\java\com\badboy\cloud\service\IUserService.java
+D:\work\badboy\badboy-cloud-pro-parent\badboy-cloud-pro-user\src\main\java\com\badboy\cloud\service\impl\UserService.java

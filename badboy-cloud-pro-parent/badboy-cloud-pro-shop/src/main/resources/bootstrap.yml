@@ -1,0 +1,19 @@
+server:
+  port: 4444
+
+spring:
+  application:
+    name: badboy-cloud-pro-shop
+  cloud:
+    config:
+      enabled: true
+      uri:
+      - http://localhost:1112
+      profile: dev
+      label: master
+      name: ${spring.application.name},common
+  profiles:
+    active: dev
+
+
+

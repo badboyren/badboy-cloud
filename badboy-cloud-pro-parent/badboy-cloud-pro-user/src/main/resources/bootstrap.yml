@@ -1,0 +1,23 @@
+server:
+  port: 2222
+
+spring:
+  application:
+    name: badboy-cloud-pro-user
+  cloud:
+    config:
+      enabled: true
+      uri:
+      - http://localhost:1112
+      profile: dev
+      label: master
+      name: ${spring.application.name},common
+  profiles:
+    active: dev
+
+  rabbitmq:
+    host: 192.168.0.25
+    port: 5672
+    username: guest
+    password: guest
+
